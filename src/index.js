@@ -7,4 +7,3 @@ if (require.main === module) {
 }
 
 module.exports = { getMessage };
-console.log("test");
